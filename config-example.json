@@ -1,0 +1,5 @@
+{
+  "fromAddress": "Max Mustermann - Musterstraße 13 - 99999 Musterstadt - Deutschland",
+  "printerUrl": "ipp://192.168.0.42:631/printers/dymo",
+  "serverPort": 3000
+}
