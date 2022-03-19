@@ -29,4 +29,4 @@ It's tweaked to print nicely on Dymo 99012 (36 x 89 mm) shipping labels, fitting
 ## Further remarks
 - The Printer URL might be configurable with an environment variable in the future
 - Design: html5up.net | @ajlkn, CCA 3.0 license (https://html5up.net/license)
-- Companion repo with IPP server in a Docker container: https://github.com/dschuuls/balena-dymo-lw450-backend
+- Companion repo with IPP server in a Docker container: https://github.com/dschuuls/dymo-lw450-backend
