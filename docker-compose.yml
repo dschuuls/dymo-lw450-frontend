@@ -1,0 +1,7 @@
+version: '2.1'
+
+services:
+  dymo-lw450-frontend:
+    build: .
+    ports:
+      - "8080:3000"
